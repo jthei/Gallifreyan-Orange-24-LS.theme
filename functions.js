@@ -124,7 +124,7 @@ function Day () {
 
 function Month () {
     month = new Array("january","february","march","april","may","jun","july","august","september","october","november","december");
-    return month[d.getMonth()+1];
+    return month[d.getMonth()];
 }
 
 
