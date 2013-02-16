@@ -16,17 +16,17 @@ body {
 #background {
 	position: absolute;
 	
-	width: 640px;
-	height: 1136px;
+	width: 320px;
+	height: 568px;
     z-index: 1;
 }
 #main-wrapper {
     position: absolute;
     
-	width: 640px;
-	height: 640px;
+	width: 320px;
+	height: 320px;
     
-	top: 120px;
+	top: 60px;
     left: 0px;
     
 	-webkit-transition: all 2s ease-in-out;
@@ -39,8 +39,8 @@ body {
 #circles img {
     position: absolute;
     
-	width: 640px;
-	height: 640px;
+	width: 320px;
+	height: 320px;
 	
 	-webkit-transition: all 2s ease-in-out;
 	-webkit-transition-delay: 0.5s;	
@@ -53,27 +53,27 @@ body {
     z-index: 100;
 }
 #am_pm {
-	margin-top: 200px;
-	width: 640px;
-	font-size: 130px;
+	margin-top: 100px;
+	width: 320px;
+	font-size: 65px;
 	text-align: center;
 }
 #date {
-	margin-top: 314px;
-	margin-left: 165px;
+	margin-top: 157px;
+	margin-left: 82px;
 	border-top: 1px solid;
 	padding-top: 2px;
-	width: 310px;
-	font-size: 28px;
+	width: 176px;
+	font-size: 14px;
 	text-align: center;
 	letter-spacing: -1px;
 	font-weight: bold;
 	color: #f90;
 }
 #day {
-	margin-top: 342px;
-	width: 640px;
-	font-size: 36px;
+	margin-top: 171px;
+	width: 320px;
+	font-size: 18px;
 	text-align: center;	 
 	color: #f90;
 }
