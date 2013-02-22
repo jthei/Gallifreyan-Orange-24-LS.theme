@@ -13,7 +13,7 @@ Clock and "Doctor's Name" will rotate based on orientation.
 
 Orange color used is **#f90**
 
-Background is a modified subtle pattern from *subtlepatterns.com*
+Background is a modified subtle pattern from *[subtlepatterns.com](http://www.subtlepatterns.com/)*
 
 Font is *STHeitiSC-Light*
 
