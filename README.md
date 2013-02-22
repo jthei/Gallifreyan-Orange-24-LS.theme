@@ -1,6 +1,8 @@
 Gallifreyan-Orange-24-LS.theme
 ==============================
 
+To install, download zip archive and unarchive into /var/stash/Themes.xxx using iFile.
+
 Custom Lockscreen Theme for Jailbroken iPhone 5 (Winterboard)
 Based on "LS Circles" by ctn (http://ctn.deviantart.com/art/LS-circles-251663740). 
 
