@@ -12,3 +12,5 @@ Orange color used is #f90
 
 Background is a modified subtle pattern from subtlepatterns.com
 
+Font is STHeitiSC-Light
+
